@@ -1,1 +1,2 @@
-# text-to-speech
+#   VOXIFY 
+Text to speech convertor (beginner friendly project)
